@@ -4,8 +4,8 @@ Demande du designer :
 ![desktop-design](https://user-images.githubusercontent.com/101110693/178148953-748d92bb-a75d-4e7c-9a6f-efa744692062.jpg)
 
 Hover :
-![desktop-design](https://user-images.githubusercontent.com/101110693/178148962-14c56d11-ed5d-49e9-9834-dc3246b6c36b.jpg)
+![active-states](https://user-images.githubusercontent.com/101110693/178149197-907cb128-ab23-453b-867d-6a8a0e049d0e.jpg)
 
 Responsive design mobile :
-![desktop-design](https://user-images.githubusercontent.com/101110693/178148978-ec6720a9-44f7-4865-931c-6816831e58f8.jpg)
+![mobile-design](https://user-images.githubusercontent.com/101110693/178149201-118758b9-fdc5-40cb-9026-847137902724.jpg)
 
